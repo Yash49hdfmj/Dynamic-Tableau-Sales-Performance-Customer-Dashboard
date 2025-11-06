@@ -335,20 +335,16 @@ Based on dashboard analysis, I recommend:
 📁 Sales-Customer-Analytics-Tableau/
 ├── 📊 Dashboards/
 │   ├── Sales_Dashboard_2023.twbx (Tableau workbook)
-│   └── Customer_Dashboard_2023.twbx
-├── 📁 Data/
+│   └── Customer_Dashboard_2023.twbx (Tableau workbook)
+├── 📁 Datasets/
 │   ├── Orders.csv (9,996 rows - Fact table)
 │   ├── Products.csv (1,896 rows - Dimension)
 │   ├── Location.csv (634 rows - Dimension)
 │   └── Customers.csv (795 rows - Dimension)
-├── 📁 Documentation/
+├── 📁 Documentation
 │   ├── README.md (This file)
 │   ├── Calculation_Reference.md (All 30 LOD expressions)
 │   └── Data_Model_Diagram.png
-└── 📁 Screenshots/
-    ├── Sales_Dashboard_Screenshot.png
-    ├── Customer_Dashboard_Screenshot.png
-    └── Filter_Panel_Screenshot.png
 ```
 
 ---
