@@ -1,6 +1,6 @@
 # Sales & Customer Analytics Dashboards – Tableau Project
 
-## 📊 Project Overview
+## Project Overview
 ![sales dashboard](https://github.com/Yash49hdfmj/Dynamic-Tableau-Sales-Performance-Customer-Dashboard/blob/main/datasets/sales%20dashboard.png)
 ![customer dashboard](https://github.com/Yash49hdfmj/Dynamic-Tableau-Sales-Performance-Customer-Dashboard/blob/main/datasets/sales%20dashboard.png)
 
@@ -110,7 +110,7 @@ All dashboards share a unified filter panel:
 
 ---
 
-## 🧮 Advanced Calculations & LOD Expressions
+##  Advanced Calculations & LOD Expressions
 
 ### **Action: Technical Implementation**
 
@@ -329,24 +329,6 @@ Based on dashboard analysis, I recommend:
 
 ---
 
-## 🎓 Interview-Ready Talking Points
-
-### **For Amazon BA Role:**
-
-**Q: "Walk me through a complex analytical project."**  
-**STAR Response**: Use the complete structure above - Situation (portfolio need), Task (dashboard requirements), Action (data modeling + calculations), Result (20.6% sales growth insights + recommendations)
-
-**Q: "How do you ensure data quality?"**  
-**A**: "I implemented 5-layer validation: referential integrity checks, business logic validation (Profit = Sales - Cost), statistical range analysis, cross-checks between dashboards, and manual verification of calculated fields against source data. For example, I confirmed the 20.6% YoY growth by manually calculating (164.4-136.3)/136.3 to validate my LOD expression."
-
-**Q: "Tell me about a time you used data to drive decisions."**  
-**A**: "My analysis revealed Tables subcategory had -$8K loss despite sales volume. By drilling into order details, I found 45% discounts were creating negative margins (e.g., one order with -$383 loss). I recommended repricing strategy and supplier renegotiation, projecting $10K+ annual profit recovery."
-
-**Q: "How do you communicate technical findings to non-technical stakeholders?"**  
-**A**: "I use visual hierarchies - KPI cards with green/red arrows for instant understanding, then drill-down charts for those wanting details. For executives: 'Profit up 30% - Phones winning, Tables losing'. For analysts: 'LOD expressions isolate YoY metrics independent of filters'. Each audience gets appropriate depth."
-
----
-
 ## 🔗 Repository Contents
 
 ```
@@ -373,12 +355,11 @@ Based on dashboard analysis, I recommend:
 
 ## 🚀 Tools & Technologies
 
-- **Tableau Desktop** (2023.x) - Dashboard development
+- **Tableau Desktop** (2023) - Dashboard development
 - **Microsoft Excel** - Initial data validation
 - **Dimensional Modeling** - Star schema design
 - **LOD Calculations** - FIXED, INCLUDE expressions
 - **Parameter Actions** - Dynamic filtering
-- **Git** - Version control
 
 ---
 
@@ -386,9 +367,6 @@ Based on dashboard analysis, I recommend:
 
 **Created by**: [Yash Gadhave]  
 **Program**: MSc Data Science (Final Year)  
-**Target Role**: Business Analyst @ Amazon  
-**LinkedIn**: [Your LinkedIn Profile]  
-**Portfolio**: [Your Portfolio Website]  
 
 ---
 
