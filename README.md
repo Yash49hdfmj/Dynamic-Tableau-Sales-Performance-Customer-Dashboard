@@ -1,6 +1,8 @@
 # Sales & Customer Analytics Dashboards – Tableau Project
 
 ## 📊 Project Overview
+![sales dashboard](https://github.com/Yash49hdfmj/Dynamic-Tableau-Sales-Performance-Customer-Dashboard/blob/main/datasets/sales%20dashboard.png)
+![customer dashboard](https://github.com/Yash49hdfmj/Dynamic-Tableau-Sales-Performance-Customer-Dashboard/blob/main/datasets/sales%20dashboard.png)
 
 ### **Situation**
 As an MSc Data Science student preparing for Business Analyst roles, I identified the need to demonstrate end-to-end business intelligence capabilities. The challenge was to create executive-level dashboards that could analyze multi-year sales performance and customer behavior for retail business decision-making, while showcasing advanced Tableau skills including LOD expressions, parameter-driven interactivity, and KPI engineering.
